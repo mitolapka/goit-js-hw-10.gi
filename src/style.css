@@ -20,7 +20,6 @@ display: flex;
      margin-right: 10px;
      height: 40%;
      width: 40%;
-     /* Простір між картинкою і div */
  }
  .cat-span {
     font-weight: bold;
