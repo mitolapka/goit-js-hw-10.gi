@@ -1,0 +1,27 @@
+.hidden {
+    display: none;
+}
+ .breed-select {
+     width: 200px;
+     padding: 10px;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+     font-size: 16px;
+ }
+
+ .cat-info {
+     margin-top: 20px;
+display: flex;
+    align-items: flex-start;
+ }
+
+ .cat-img {
+     flex: 0 0 auto;
+     margin-right: 10px;
+     height: 40%;
+     width: 40%;
+     /* Простір між картинкою і div */
+ }
+ .cat-span {
+    font-weight: bold;
+ } 
