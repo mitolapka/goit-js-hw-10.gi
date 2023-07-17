@@ -24,7 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
       //select.classList.add('hidden');
     });
  const defaultOption = document.createElement('option');
-defaultOption.value = "";
+  defaultOption.value = "";
+  defaultOption.textContent = "Abbyssinian";
 defaultOption.selected = true;
 defaultOption.hidden = true;
 
